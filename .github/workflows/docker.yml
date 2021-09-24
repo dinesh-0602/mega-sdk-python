@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: breakdowns/mega-sdk-python:latest
+          tags: dinesh0602/ddonlyee:latest
